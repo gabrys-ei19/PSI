@@ -1,2 +1,2 @@
-# PSI-portfolio
-## projekt portfolio na PSI
+# PSI
+## repozytorium z plikami na przedmiot PSI
